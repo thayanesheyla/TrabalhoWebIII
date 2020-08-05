@@ -1,0 +1,27 @@
+body{
+    background-color: darkslategray;
+    text-align: center;
+    margin: auto;
+}
+
+h1{
+    font-size: 60px;
+    font-family: frogger;
+    color: khaki;
+    margin-top: 270px;
+}
+
+#fgr{
+    float: left;
+    margin-left: 8%;
+}
+
+#gm{
+    float: right;
+    margin-right: 10%;
+}
+
+@font-face{
+    font-family: frogger;
+    src: url('../font/wonderland.otf');
+}
